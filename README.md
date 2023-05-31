@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝I'm a full stack developer with strong interest in backend development.<br>🔭 I’m currently working on PersonalBlog Project with React and ASP.Net WebAPI.<br>🌱 I’m currently learning TypeScript and Angular Framework.<br>💬 Add me on [Linkedin](https://linkedin.com/in/mertsimsekk01) .<br>
+🤝I'm a full stack developer with strong interest in backend development.<br>🔭 I’m currently working on PersonalBlog Project with React and ASP.Net WebAPI.<br>🌱 I’m currently learning GitLab CI/CD.<br>💬 Add me on [Linkedin](https://linkedin.com/in/mertsimsekk01) .<br>
 
 
 ## 🌐 Socials:
